@@ -4,7 +4,7 @@ body{
   justify-content: center;
   align-items: center;
   margin-top: 150px;
-  background-color: #D3F6D1	;
+  background-color: #A2D5F2;
 }
 
 h1 {
@@ -12,7 +12,8 @@ h1 {
   font-size: 40px;
   letter-spacing: 2px;
   margin-bottom: 0px;
-  color: #5C8D89;
+  color: #07689F;
+  font-family: "Verdana";
 }
 
 .inputSection {
@@ -35,5 +36,9 @@ input {
 }
 
 button {
-  background-color: #A7D7C5;
+  background-color: #FF7E67;
+}
+
+button:hover{
+  background-color: #07689F;
 }
