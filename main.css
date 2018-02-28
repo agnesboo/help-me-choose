@@ -37,6 +37,10 @@ input {
 
 button {
   background-color: #FF7E67;
+  border: none;
+  padding: 12px 20px;
+  font-size: 12px;
+  font-family: "Verdana";
 }
 
 button:hover{
